@@ -7,7 +7,7 @@ O projeto é sobre uma plataforma de filmes, usando diversas tecnologias e ferra
   
 🌐  **HTML:** Estruturação da página web.
 
-🎨  **CSS** Estilização da página web.
+🎨  **CSS:** Estilização da página web.
 
 🔵 **Spring Boot:** Para a construção da aplicação Java de maneira rápida e eficiente.
 
