@@ -38,3 +38,6 @@ O projeto é sobre uma plataforma de filmes, usando diversas tecnologias e ferra
 - [x] Listagem de filmes cadastrados;
 
 ![image](https://github.com/AmericoRelvas/plataforma-de-filmes/assets/112661393/ee79ef1f-c630-45e0-81ff-7a9237878a67)
+
+![image](https://github.com/AmericoRelvas/plataforma-de-filmes/assets/112661393/2cd623b9-811c-4cd5-b76f-fc23a0502e72)
+
